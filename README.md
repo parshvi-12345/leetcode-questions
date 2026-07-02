@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/parshvi-12345/leetcode-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/parshvi-12345/leetcode-questions/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/parshvi-12345/leetcode-questions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/parshvi-12345/leetcode-questions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
