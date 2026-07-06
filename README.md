@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/parshvi-12345/leetcode-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/parshvi-12345/leetcode-questions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/parshvi-12345/leetcode-questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/parshvi-12345/leetcode-questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/parshvi-12345/leetcode-questions/tree/master/2235-add-two-integers) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/parshvi-12345/leetcode-questions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/parshvi-12345/leetcode-questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/parshvi-12345/leetcode-questions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/parshvi-12345/leetcode-questions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
