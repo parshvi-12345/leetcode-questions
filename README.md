@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/parshvi-12345/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/parshvi-12345/leetcode-questions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/parshvi-12345/leetcode-questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/parshvi-12345/leetcode-questions/tree/master/0231-power-of-two) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/parshvi-12345/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/parshvi-12345/leetcode-questions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/parshvi-12345/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/parshvi-12345/leetcode-questions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
