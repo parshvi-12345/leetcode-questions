@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/parshvi-12345/leetcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/parshvi-12345/leetcode-questions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/parshvi-12345/leetcode-questions/tree/master/2235-add-two-integers) |
 ## Simulation
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshvi-12345/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/parshvi-12345/leetcode-questions/tree/master/0169-majority-element) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/parshvi-12345/leetcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
