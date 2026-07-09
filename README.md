@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parshvi-12345/leetcode-questions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshvi-12345/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/parshvi-12345/leetcode-questions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parshvi-12345/leetcode-questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/parshvi-12345/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/parshvi-12345/leetcode-questions/tree/master/0169-majority-element) |
 ## Divide and Conquer
