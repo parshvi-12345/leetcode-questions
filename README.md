@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/parshvi-12345/leetcode-questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/parshvi-12345/leetcode-questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/1025-divisor-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/parshvi-12345/leetcode-questions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/1025-divisor-game) |
 ## Two Pointers
 |  |
