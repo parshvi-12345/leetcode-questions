@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshvi-12345/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/parshvi-12345/leetcode-questions/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/parshvi-12345/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parshvi-12345/leetcode-questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parshvi-12345/leetcode-questions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/parshvi-12345/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/parshvi-12345/leetcode-questions/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/parshvi-12345/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parshvi-12345/leetcode-questions/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/parshvi-12345/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -87,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshvi-12345/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/parshvi-12345/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshvi-12345/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/parshvi-12345/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 ## Number Theory
 |  |
 | ------- |
