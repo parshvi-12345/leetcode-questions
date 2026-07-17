@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/parshvi-12345/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/parshvi-12345/leetcode-questions/tree/master/1025-divisor-game) |
 ## Recursion
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parshvi-12345/leetcode-questions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/parshvi-12345/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/parshvi-12345/leetcode-questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/parshvi-12345/leetcode-questions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/parshvi-12345/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/parshvi-12345/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/parshvi-12345/leetcode-questions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
